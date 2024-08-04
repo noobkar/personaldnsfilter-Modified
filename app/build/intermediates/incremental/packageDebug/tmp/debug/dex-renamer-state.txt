@@ -1,0 +1,4 @@
+#Sat Aug 03 23:56:46 PDT 2024
+base.0=/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

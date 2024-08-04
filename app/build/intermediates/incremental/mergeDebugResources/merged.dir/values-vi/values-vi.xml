@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="EnableAdfilter">Khả năng ngăn chặn</string>
+    <string name="EnableAutoStart">Tự khởi động</string>
+    <string name="EnableConfigCheckBox">Cài đặt nâng cao</string>
+    <string name="active">Hoạt động</string>
+    <string name="addFilter">"Thêm lọc"</string>
+    <string name="appWhitelistCheckBox">Danh sách trắng ứng dụng</string>
+    <string name="app_name">personalDNSfilter</string>
+    <string name="backupConfig">Sao lưu cấu hình</string>
+    <string name="category">Mục</string>
+    <string name="cfgBackupRestore">Khôi phục</string>
+    <string name="cnameCloakingConfig">CNAME cloaking bảo vệ (hung hăng)</string>
+    <string name="dnsCfgConfigDialogTitle">Cấu hình DNS</string>
+    <string name="dnsLabel">DNS:</string>
+    <string name="dnsProtocol" translatable="true">Giao thức DNS</string>
+    <string name="editAdditionalHostsCheckBox">Thiết lập thêm máy chủ (host)</string>
+    <string name="editEntry">Chỉnh sửa đầu vào</string>
+    <string name="editFilterDialogTitle">Sửa bộ lọc</string>
+    <string name="editFilterLoadCheckBox">Thiết lập thêm bộ lọc</string>
+    <string name="endpoint" translatable="true">ĐIểm cuối</string>
+    <string name="filterReloadBtnLabel">Tải lại bộ lọc</string>
+    <string name="filterUpdateDays">Khoảng thời gian cập nhật bộ lọc trong ngày:</string>
+    <string name="ip" translatable="true">Địa chỉ IP của máy chủ DNS</string>
+    <string name="ipEmptyError">Thiếu dịa chỉ IP của máy chủ</string>
+    <string name="keepAwakeCheckBox">Ngăn thiết bị ngủ đông</string>
+    <string name="listenPortLabel">Cổng:</string>
+    <string name="manualDNSCheck">Vô hiệu hóa máy chủ DNS discovery - hướng Dẫn sử dụng máy chủ dưới:</string>
+    <string name="manuallyEditConfChk">Chỉnh sửa tệp cấu hình</string>
+    <string name="name">Tên</string>
+    <string name="notificationActive">Hoạt động</string>
+    <string name="notificationPaused">Tạm dừng</string>
+    <string name="passphrase">Cụm mật khẩu</string>
+    <string name="port" translatable="true">Cổng</string>
+    <string name="portEmptyError">Thiếu cổng của giao thức DNS</string>
+    <string name="proxyLocalOnlyCheckbox">Chỉ cho phép các yêu cầu proxy DNS cục bộ</string>
+    <string name="proxyModeCheckBox">Chế độ Proxy</string>
+    <string name="rawEditMode">Chế độ chỉnh sửa thô</string>
+    <string name="remoteConnectDialogTitle">Điều khiển từ xa</string>
+    <string name="remote_destination">Nơi Đến</string>
+    <string name="removeFilter">"Bỏ lọc"</string>
+    <string name="restoreBackup">Khôi phục sao lưu</string>
+    <string name="restoreDefault">Khôi phục về cấu hình mặc định</string>
+    <string name="rootModeCheckBox">Chế độ Root</string>
+    <string name="serverUnreachable">Máy chủ DNS không phản hồi</string>
+    <string name="shortText">Văn bản ngắn</string>
+    <string name="showCommentedLines">Hiện các dòng bình luận</string>
+    <string name="startBtnLabel">Khởi động lại</string>
+    <string name="stopBtnLabel">Đóng</string>
+    <string name="switch_pause_resume">Nhấn để chuyển</string>
+    <string name="testDNSResultFailure">Thất bại: %1$s</string>
+    <string name="testDNSResultSuccess">Thành công:\nping trung bình ~ %1$d\"</string>
+</resources>

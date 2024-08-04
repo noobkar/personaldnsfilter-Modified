@@ -1,0 +1,1510 @@
+[
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-anydpi-v21_menu_inactive.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-anydpi-v21/menu_inactive.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-v21_ripple_bordered_transparent_button.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable-v21/ripple_bordered_transparent_button.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_checkbox_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/checkbox_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_help.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/help.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_delete.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_arrow_right.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/arrow_right.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_switch_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/switch_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_remote_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/remote_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_checkbox_active.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/checkbox_active.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_edit.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_dnsserverconfigentrylistitem.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/dnsserverconfigentrylistitem.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_arrow_right.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_arrow_right.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_play_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_play_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_dnsserverconfigentrylistnewitem.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/dnsserverconfigentrylistnewitem.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-xhdpi_menu_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-xhdpi/menu_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_checkbox_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/checkbox_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_checkbox_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/checkbox_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_play_circle.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_play_circle.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_help.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/help.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_custom_round_button.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/custom_round_button.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_settings_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/settings_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_edit_pen.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/edit_pen.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_settings_inactive.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/settings_inactive.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-xxxhdpi_menu_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-xxxhdpi/menu_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_text_view.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/text_view.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_checkbox_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/checkbox_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_menu_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/menu_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_filterentryeditdialog.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/filterentryeditdialog.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_exclamation_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/ic_exclamation_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night_edit_text_default.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable-night/edit_text_default.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_progress.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_progress.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_edit_filter.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/edit_filter.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_noresult.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/noresult.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_switch_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/switch_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_done.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/done.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_switch_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/switch_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_search_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/search_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_delete.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_done.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/done.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_menu_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/menu_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_checkbox_active_focus.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/checkbox_active_focus.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_arrow_left.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/arrow_left.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_cancel.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/cancel.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_checkbox_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/checkbox_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_rounded_card_default.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/rounded_card_default.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_remote_icon.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/remote_icon.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night_rounded_card_disabled.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable-night/rounded_card_disabled.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_done.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/done.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_back_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/back_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_cancel.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/cancel.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_round_button_pressed.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/round_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_menu_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/menu_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_edit.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_edit.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_arrow_right.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_switch_active_focus.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/switch_active_focus.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_plus_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_plus_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_settings_focus.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/settings_focus.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_remote_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/remote_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_cancel.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/cancel.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_appselectorcheckbox.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/appselectorcheckbox.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_checkbox_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/checkbox_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_play_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_play_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_switch_inactive_focus.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/switch_inactive_focus.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_settings_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/settings_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_check_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_check_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_settings_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/settings_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_arrow_left.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/arrow_left.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-anydpi-v21_switch_inactive.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-anydpi-v21/switch_inactive.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_checkbox_inactive.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/checkbox_inactive.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_remote_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/remote_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_help.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/help.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_switch_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/switch_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_progress.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/ic_progress.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_progress.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_progress.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_noresult.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/noresult.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_remote_icon_outline.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/remote_icon_outline.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_check_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/ic_check_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_dnsentrytestresult.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/dnsentrytestresult.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_noresult.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/noresult.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_checkbox_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/checkbox_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_play_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/ic_play_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_edit_text.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/edit_text.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_dropdown.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_dropdown.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_dropdown.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_dropdown.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_dropdown.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/ic_dropdown.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_play_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_play_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-xxxhdpi_settings_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-xxxhdpi/settings_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_round_button_focused.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/round_button_focused.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_progress.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_progress.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_menu_active.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/menu_active.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_menu_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/menu_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_back_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/back_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_icon_disabled.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable-ldpi/icon_disabled.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_edit_filter.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/edit_filter.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_checkbox_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/checkbox_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-xxxhdpi_checkbox_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-xxxhdpi/checkbox_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_popup.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/popup.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_play_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/ic_play_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_edit_pen.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/edit_pen.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_edit_pen.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/edit_pen.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_noresult.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/noresult.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_arrow_left.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/arrow_left.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_switch_inactive.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/switch_inactive.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_activitydnsserverconfig.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/activitydnsserverconfig.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_arrow_left.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/arrow_left.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_settings_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/settings_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_dnsserverconfigentryedititem.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/dnsserverconfigentryedititem.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_exclamation_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_exclamation_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_remote_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/remote_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-xxhdpi_switch_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-xxhdpi/switch_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_remote_icon_outline.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/remote_icon_outline.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_checkbox_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/checkbox_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_menu_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/menu_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_exclamation_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/ic_exclamation_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_button_default.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/button_default.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_settings_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/settings_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_cancel.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/cancel.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_button_focused.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/button_focused.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_menu_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/menu_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night_text_view.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable-night/text_view.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_dnsserverconfigentrylistcommentitem.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/dnsserverconfigentrylistcommentitem.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_settings_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/settings_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_appselectorsearch.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/appselectorsearch.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-ldpi_menu_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-ldpi/menu_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_check_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/ic_check_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_plus_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/ic_plus_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_settings_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/settings_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_plus_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_plus_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_delete.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_settings_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/settings_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_dnsserverconfigentrylistcommentitem.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/dnsserverconfigentrylistcommentitem.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-xhdpi_settings_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-xhdpi/settings_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_edit_text_default.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/edit_text_default.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_transparent_bordered_button_pressed.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/transparent_bordered_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_switch_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/switch_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_transparent_outlined_button_default.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/transparent_outlined_button_default.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-ldpi_switch_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-ldpi/switch_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_edit_filter.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/edit_filter.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_arrow_right.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_menu_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/menu_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_remote_icon_outline.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/remote_icon_outline.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_settings_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/settings_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_button_pressed.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/button_pressed.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_check_circle.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_check_circle.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_transparent_outlined_button_pressed.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/transparent_outlined_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-mdpi_checkbox_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-mdpi/checkbox_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_menu_active_focus.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/menu_active_focus.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_dnsserverconfigentrylistnewitem.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/dnsserverconfigentrylistnewitem.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_menu_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/menu_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_help.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/help.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_switch_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/switch_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_custom_menu.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/custom_menu.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_switch_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/switch_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_remote_icon_outline.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/remote_icon_outline.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_settings_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/settings_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_switch_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/switch_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_arrow_right.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_box_background.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/box_background.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-anydpi-v21_settings_inactive.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-anydpi-v21/settings_inactive.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_custom_checkbox.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/custom_checkbox.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_back_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/back_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_settings_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/settings_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_switch_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/switch_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_help.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/help.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_switch_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/switch_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_switch_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/switch_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-mdpi_switch_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-mdpi/switch_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_menu_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/menu_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_edit_filter.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/edit_filter.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_transparent_button_default.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/transparent_button_default.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_menu_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/menu_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_settings_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/settings_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-mdpi_menu_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-mdpi/menu_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-ldpi_checkbox_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-ldpi/checkbox_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_ripple_bordered_transparent_button.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/ripple_bordered_transparent_button.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_settings_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/settings_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_menu_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/menu_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_rounded_card_disabled.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/rounded_card_disabled.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_menu_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/menu_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_back_icon.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/back_icon.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-hdpi_switch_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-hdpi/switch_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_back_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/back_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_done.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/done.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_activitydnsserverconfig.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/activitydnsserverconfig.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_edit_pen.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/edit_pen.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_edit_filter.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/edit_filter.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_switch_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/switch_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_done.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/done.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_check_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/ic_check_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_menu_inactive.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/menu_inactive.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_done.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/done.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_search_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/search_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_checkbox_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/checkbox_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-hdpi_settings_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-hdpi/settings_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_remote_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/remote_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_scroll_bar.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/scroll_bar.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_dropdown.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_dropdown.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_play_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/ic_play_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_dnsserverconfigentrylistitem.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/dnsserverconfigentrylistitem.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_search_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/search_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-xxhdpi_checkbox_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-xxhdpi/checkbox_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_checkbox_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/checkbox_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_emptyresult.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/emptyresult.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-xxhdpi_settings_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-xxhdpi/settings_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_main.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/main.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_settings_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/settings_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_checkbox_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/checkbox_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-hdpi_checkbox_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-hdpi/checkbox_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_checkbox_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/checkbox_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_edit_filter.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/edit_filter.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_edit_filter.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/edit_filter.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_filterentryeditdialog.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/filterentryeditdialog.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_transparent_button_pressed.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/transparent_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_exclamation_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_exclamation_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_check_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_check_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_icon_disabled.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable-mdpi/icon_disabled.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_checkbox_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/checkbox_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_menu_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/menu_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_arrow_left.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/arrow_left.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-v21_ripple_transparent_button.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable-v21/ripple_transparent_button.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_dropdown.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/ic_dropdown.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_delete.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_menu_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/menu_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_back_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/back_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_noresult.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/noresult.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_arrow_left.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/arrow_left.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_exclamation_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_exclamation_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_menu_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/menu_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-xxxhdpi_switch_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-xxxhdpi/switch_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_filterconfigentry.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/filterconfigentry.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_search_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/search_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_menu_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/menu_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_dropdown.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/ic_dropdown.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_noresult.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/noresult.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_noresult.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/noresult.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_arrow_left.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/arrow_left.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_appselectorsearch.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/appselectorsearch.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_help.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/help.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_menu_inactive_focus.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/menu_inactive_focus.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_remoteconnect.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/remoteconnect.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_appselectorcheckbox.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/appselectorcheckbox.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_switch_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/switch_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_rounded_card.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/rounded_card.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-v21_ripple_outlined_button.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable-v21/ripple_outlined_button.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_edit_pen.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/edit_pen.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_checkbox_inactive_focus.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/checkbox_inactive_focus.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_progress.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/ic_progress.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_switch_active.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/switch_active.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_edit.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_switch_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/switch_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_plus_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_plus_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_menu_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/menu_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_remote_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/remote_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_cancel.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/cancel.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-mdpi_settings_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-mdpi/settings_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-xhdpi_switch_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-xhdpi/switch_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_settings_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/settings_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_scroll_bar_alt.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/scroll_bar_alt.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_delete.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_spinneritem.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/spinneritem.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night_box_background.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable-night/box_background.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_menu_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/menu_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_progress.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/ic_progress.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_exclamation_circle.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_exclamation_circle.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_switch_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/switch_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_plus_circle.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_plus_circle.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_dnsserverconfigentryedititem.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/dnsserverconfigentryedititem.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_switch_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/switch_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_edit.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_delete.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_delete.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_menu_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/menu_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_switch_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/switch_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_remoteconnect.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/remoteconnect.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_back_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/back_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-anydpi-v21_checkbox_inactive.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-anydpi-v21/checkbox_inactive.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_cancel.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/cancel.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_edit.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_progress.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_progress.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_divider_custom.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/divider_custom.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_remote_icon_outline.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/remote_icon_outline.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_settings_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/settings_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_switch_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/switch_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_emptyresult.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/emptyresult.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_popup.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/popup.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_menu_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/menu_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_checkbox_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/checkbox_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_remote_icon_outline.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/remote_icon_outline.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_round_button_default.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/round_button_default.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_custom_switch.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/custom_switch.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_transparent_bordered_button_default.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/transparent_bordered_button_default.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_edit_pen.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/edit_pen.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_dropdown.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_dropdown.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_switch_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/switch_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_checkbox_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/checkbox_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_checkbox_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/checkbox_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_edit_pen.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/edit_pen.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-xhdpi_checkbox_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-xhdpi/checkbox_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_plus_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/ic_plus_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_switch_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/switch_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_checkbox_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/checkbox_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_search_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/search_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_ripple_outlined_button.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/ripple_outlined_button.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_edit_text_focused.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/edit_text_focused.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_ripple_transparent_button.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/ripple_transparent_button.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_arrow_right.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_spinneritem.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/spinneritem.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_remote_icon_outline.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/remote_icon_outline.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_checkbox_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/checkbox_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_switch_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/switch_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_done.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/done.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_search_icon.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/search_icon.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout-night_filterconfigentry.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout-night/filterconfigentry.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/anim_progress_rotation.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/anim/progress_rotation.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_check_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_check_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_switch_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/switch_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_menu_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/menu_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_custom_settings.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/custom_settings.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_main.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_settings_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/settings_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_nav_back_icon.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/nav_back_icon.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_switch_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/switch_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_edit.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_help.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/help.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_checkbox_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/checkbox_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_search_icon.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/search_icon.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-hdpi_menu_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-hdpi/menu_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/layout_dnsentrytestresult.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/layout/dnsentrytestresult.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-xxhdpi_menu_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-xxhdpi/menu_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_menu_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/menu_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_cancel.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/cancel.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_plus_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-ldpi/ic_plus_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xhdpi_checkbox_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xhdpi/checkbox_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable_custom_button.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/drawable/custom_button.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_menu_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/menu_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_checkbox_active_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/checkbox_active_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_settings_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/settings_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxhdpi_menu_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxhdpi/menu_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_checkbox_inactive_focus.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-xxxhdpi/checkbox_inactive_focus.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_settings_active.xml.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-anydpi-v21/settings_active.xml"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-night-ldpi_settings_inactive.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-night-ldpi/settings_inactive.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_exclamation_circle.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/ic_exclamation_circle.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-mdpi_checkbox_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-mdpi/checkbox_active.png"
+    },
+    {
+        "merged": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/merged_res/debug/drawable-hdpi_switch_active.png.flat",
+        "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/generated/res/pngs/debug/drawable-hdpi/switch_active.png"
+    }
+]

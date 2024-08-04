@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="EnableAdfilter">Blokkeren inschakelen</string>
+    <string name="EnableAutoStart">Autostart</string>
+    <string name="EnableConfigCheckBox">Geavanceerde instellingen</string>
+    <string name="active">actief</string>
+    <string name="addFilter">"Filter toevoegen"</string>
+    <string name="appWhitelistCheckBox">App whitelist</string>
+    <string name="app_name">personalDNSfilter</string>
+    <string name="backupConfig">Back-up configuratie</string>
+    <string name="category">categorie</string>
+    <string name="cfgBackupRestore">Back-up maken en herstellen</string>
+    <string name="cnameCloakingConfig">CNAME Cloaking bescherming (agressief)</string>
+    <string name="dnsCfgConfigDialogTitle">DNS-server configuratie</string>
+    <string name="dnsLabel">DNS:</string>
+    <string name="dnsProtocol" translatable="true">DNS protocol</string>
+    <string name="editAdditionalHostsCheckBox">Configureer extra hosts </string>
+    <string name="editEntry">Bewerk invoer</string>
+    <string name="editFilterDialogTitle">Filter bewerken</string>
+    <string name="editFilterLoadCheckBox">Configureer filter update</string>
+    <string name="endpoint" translatable="true">eindpunt</string>
+    <string name="filterReloadBtnLabel">Filter herladen</string>
+    <string name="filterUpdateDays">Filter update interval in dagen:</string>
+    <string name="ip" translatable="true">IP</string>
+    <string name="ipEmptyError">IP mag niet leeg zijn</string>
+    <string name="keepAwakeCheckBox">Apparaat blijft actief</string>
+    <string name="listenPortLabel">Poort:</string>
+    <string name="manualDNSCheck">DNS-server discovery uitschakelen - Handmatige DNS-servers hieronder:</string>
+    <string name="manuallyEditConfChk">Configuratiebestand bewerken</string>
+    <string name="name">naam</string>
+    <string name="notificationActive">actief</string>
+    <string name="notificationPaused">Gepauseerd</string>
+    <string name="passphrase">Wachtwoordzin</string>
+    <string name="port" translatable="true">poort</string>
+    <string name="portEmptyError">Poort mag niet leeg zijn</string>
+    <string name="proxyLocalOnlyCheckbox">Sta alleen lokale DNS-proxyverzoeken toe</string>
+    <string name="proxyModeCheckBox">DNS-proxy modus zonder lokale VPN</string>
+    <string name="rawEditMode">Ruwe bewerkingsmodus</string>
+    <string name="remoteConnectDialogTitle">Bediening op afstand</string>
+    <string name="remote_destination">Doelstelling</string>
+    <string name="removeFilter">"Filter verwijderen"</string>
+    <string name="restoreBackup">Back-up terugzetten</string>
+    <string name="restoreDefault">Herstel standaard configuratie</string>
+    <string name="rootModeCheckBox">Root modus zonder lokale VPN</string>
+    <string name="serverUnreachable">Server is niet bereikbaar</string>
+    <string name="shortText">Korte tekst</string>
+    <string name="showCommentedLines">Toon becommentarieerde regels</string>
+    <string name="startBtnLabel">Herstart</string>
+    <string name="stopBtnLabel">Sluiten</string>
+    <string name="switch_pause_resume">Tik om te schakelen</string>
+    <string name="testDNSResultFailure">Mislukt: %1$s</string>
+    <string name="testDNSResultSuccess">Succes:\nGemiddelde ping ~ %1$d\"</string>
+</resources>

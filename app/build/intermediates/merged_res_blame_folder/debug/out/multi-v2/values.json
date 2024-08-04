@@ -1,0 +1,115 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/values/bools.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "40",
+                        "endOffsets": "91"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                },
+                {
+                    "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "14,13,8,40,19,29,11,3,22,26,21,25,17,15,44,10,50,28,9,45,7,18,42,48,12,4,16,41,27,34,35,38,43,49,33,31,51,39,37,30,23,24,32,52,20,53,5,6,36,47,46",
+                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
+                        "startOffsets": "737,685,340,2300,1082,1628,559,85,1231,1488,1169,1403,932,794,2533,478,2935,1568,405,2604,279,1007,2425,2807,620,138,834,2355,1532,1965,2017,2186,2477,2869,1880,1732,2982,2234,2129,1677,1291,1346,1809,3041,1122,3107,186,234,2069,2747,2668",
+                        "endColumns": "56,51,64,54,39,48,60,52,59,43,61,84,74,39,70,80,46,59,72,63,60,74,51,61,64,47,97,69,35,51,51,47,55,65,84,76,58,65,56,54,54,56,70,65,46,65,47,44,59,59,78",
+                        "endOffsets": "791,734,402,2352,1119,1674,617,135,1288,1529,1228,1485,1004,831,2601,556,2979,1625,475,2665,337,1079,2474,2866,682,183,929,2422,1565,2014,2066,2231,2530,2932,1962,1806,3038,2297,2183,1729,1343,1400,1877,3104,1166,3170,231,276,2126,2804,2744"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "628,687,741,808,865,907,958,1021,1076,1138,1184,1248,1335,1412,1454,1527,1610,1659,1721,1796,1862,1925,2002,2056,2120,2187,2237,2337,2409,2447,2501,2555,2605,2663,2731,2818,2897,2958,3026,3085,3142,3199,3258,3331,3399,3448,3516,3566,3613,3675,3737",
+                        "endColumns": "58,53,66,56,41,50,62,54,61,45,63,86,76,41,72,82,48,61,74,65,62,76,53,63,66,49,99,71,37,53,53,49,57,67,86,78,60,67,58,56,56,58,72,67,48,67,49,46,61,61,80",
+                        "endOffsets": "682,736,803,860,902,953,1016,1071,1133,1179,1243,1330,1407,1449,1522,1605,1654,1716,1791,1857,1920,1997,2051,2115,2182,2232,2332,2404,2442,2496,2550,2600,2658,2726,2813,2892,2953,3021,3080,3137,3194,3253,3326,3394,3443,3511,3561,3608,3670,3732,3813"
+                    }
+                },
+                {
+                    "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "11,3,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "531,59,763",
+                        "endLines": "14,9,22",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "755,523,1242"
+                    },
+                    "to": {
+                        "startLines": "65,69,76",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3818,4044,4507",
+                        "endLines": "68,75,82",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "4039,4502,4980"
+                    }
+                },
+                {
+                    "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,11,5,9,6,7,2,3,10,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "153,481,199,382,243,293,55,102,434,337",
+                        "endColumns": "45,46,43,51,49,43,46,50,46,44",
+                        "endOffsets": "194,523,238,429,288,332,97,148,476,377"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "98,144,191,235,287,337,381,428,479,526",
+                        "endColumns": "45,46,43,51,49,43,46,50,46,44",
+                        "endOffsets": "139,186,230,282,332,376,423,474,521,566"
+                    }
+                },
+                {
+                    "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "14,2,5",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "502,55,164",
+                        "endLines": "19,4,12",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "847,160,496"
+                    },
+                    "to": {
+                        "startLines": "83,89,92",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4985,5330,5438",
+                        "endLines": "88,91,99",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "5325,5433,5763"
+                    }
+                },
+                {
+                    "source": "/Users/EAPPLE/Documents/SIMPLEVPN/personaldnsfilter/app/src/main/res/values/ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "571",
+                        "endColumns": "56",
+                        "endOffsets": "623"
+                    }
+                }
+            ]
+        }
+    ]
+}
