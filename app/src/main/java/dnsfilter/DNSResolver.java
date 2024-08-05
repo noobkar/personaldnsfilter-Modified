@@ -2,6 +2,9 @@ package dnsfilter;
 
 import android.util.Log;
 
+import net.posick.mDNS.Lookup;
+import net.posick.mDNS.ServiceInstance;
+
 import dnsfilter.android.DNSFilterService;
 import ip.IPPacket;
 import ip.UDPPacket;
@@ -14,6 +17,7 @@ import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.SocketAddress;
+import java.net.UnknownHostException;
 import java.util.Hashtable;
 
 import util.ExecutionEnvironment;
@@ -58,6 +62,7 @@ public class DNSResolver implements Runnable {
 		this.replySocket = replySocket;
 	}
 
+
 	private boolean resolveLocal(String client, DatagramPacket request, DatagramPacket response) throws IOException {
 		Log.d(TAG, "Entering resolveLocal for client: " + client);
 
@@ -72,15 +77,6 @@ public class DNSResolver implements Runnable {
 			Log.d(TAG, "Successfully parsed DNS query");
 		} catch (Exception e) {
 			Log.e(TAG, "Failed to parse DNS query: " + e.getMessage());
-			if (ExecutionEnvironment.getEnvironment().debug()) {
-				File dump = new File(ExecutionEnvironment.getEnvironment().getWorkDir() + "/dnsdump_" + System.currentTimeMillis());
-				FileOutputStream dumpout = new FileOutputStream(dump);
-				dumpout.write(request.getData(), request.getOffset(), request.getLength());
-				dumpout.flush();
-				dumpout.close();
-				Log.d(TAG, "DNS query dump created at " + dump.getAbsolutePath());
-			}
-			Logger.getLogger().logException(e);
 			throw new IOException(e);
 		}
 
@@ -90,7 +86,6 @@ public class DNSResolver implements Runnable {
 		}
 
 		Object[] info = dnsQuery.getQueryData();
-
 		short type = (short) info[1];
 		short clss = (short) info[2];
 		String host = (String) info[0];
@@ -155,34 +150,73 @@ public class DNSResolver implements Runnable {
 			return false;
 		}
 	}
-
 	private InetAddress resolveCustomDomain(String localDomain) {
 		Log.d(TAG, "Entering resolveCustomDomain for: " + localDomain);
 		try {
 			// Try mDNS resolution first
 			Log.d(TAG, "Attempting mDNS resolution");
-			InetAddress address = DNSFilterService.resolveMDNS(localDomain);
-			if (address != null) {
-				Log.d(TAG, "mDNS resolution successful: " + address.getHostAddress());
-				return address;
-			} else {
-				Log.d(TAG, "mDNS resolution failed, falling back to system resolver");
+			try {
+				Lookup lookup = new Lookup(localDomain);
+
+				ServiceInstance[] services = lookup.lookupServices();
+				Log.d(TAG, "mDNS resolution successful: " + services.length);
+
+				if (services.length > 0) {
+					InetAddress address = services[0].getAddresses()[0];
+					Log.d(TAG, "mDNS resolution successful: " + address.getHostAddress());
+					return address;
+				} else {
+					Log.d(TAG, "mDNS resolution failed, no services found for: " + localDomain);
+				}
+			} catch (NoSuchMethodError e) {
+				Log.e(TAG, "mDNS resolution method not found, falling back to system resolver", e);
+			} catch (IOException e) {
+				Log.e(TAG, "mDNS resolution IOException: " + e.getMessage(), e);
 			}
 
 			// If mDNS fails or is not available, try system resolver
-			Log.d(TAG, "Attempting system resolver");
+			Log.d(TAG, "Attempting system resolver for: " + localDomain);
 			InetAddress systemResolved = InetAddress.getByName(localDomain);
 			if (systemResolved != null) {
 				Log.d(TAG, "System resolver successful: " + systemResolved.getHostAddress());
+				return systemResolved;
 			} else {
-				Log.d(TAG, "System resolver returned null");
+				Log.d(TAG, "System resolver returned null for: " + localDomain);
 			}
-			return systemResolved;
-		} catch (IOException e) {
-			Log.e(TAG, "Failed to resolve " + localDomain + ": " + e.getMessage());
-			return null;
+		} catch (UnknownHostException e) {
+			Log.e(TAG, "Failed to resolve " + localDomain + ": " + e.getMessage(), e);
 		}
+		return null;
 	}
+
+
+//	private InetAddress resolveCustomDomain(String localDomain) {
+//		Log.d(TAG, "Entering resolveCustomDomain for: " + localDomain);
+//		try {
+//			// Try mDNS resolution first
+//			Log.d(TAG, "Attempting mDNS resolution");
+//			InetAddress address = DNSFilterService.resolveMDNS(localDomain);
+//			if (address != null) {
+//				Log.d(TAG, "mDNS resolution successful: " + address.getHostAddress());
+//				return address;
+//			} else {
+//				Log.d(TAG, "mDNS resolution failed, falling back to system resolver");
+//			}
+//
+//			// If mDNS fails or is not available, try system resolver
+//			Log.d(TAG, "Attempting system resolver");
+//			InetAddress systemResolved = InetAddress.getByName(localDomain);
+//			if (systemResolved != null) {
+//				Log.d(TAG, "System resolver successful: " + systemResolved.getHostAddress());
+//			} else {
+//				Log.d(TAG, "System resolver returned null");
+//			}
+//			return systemResolved;
+//		} catch (IOException e) {
+//			Log.e(TAG, "Failed to resolve " + localDomain + ": " + e.getMessage());
+//			return null;
+//		}
+//	}
 
 
 	private boolean handle_NonTyp_1_28(String client, SimpleDNSMessage dnsQuery, DatagramPacket response) {

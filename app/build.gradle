@@ -21,7 +21,8 @@ compileSdkVersion 33
 
 dependencies {
     implementation 'org.jmdns:jmdns:3.5.8'
-  testImplementation 'junit:junit:4.13.2'
+    implementation files('lib/mdnsjava-2.2.0.jar')
+    testImplementation 'junit:junit:4.13.2'
     //DNS
     implementation 'org.pcap4j:pcap4j-core:1.8.2'
     implementation 'org.pcap4j:pcap4j-packetfactory-static:1.8.2'
@@ -29,4 +30,6 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.9.0'
     implementation 'com.squareup.okhttp3:okhttp:4.9.3'
     implementation 'org.jmdns:jmdns:3.5.8'
+
+    implementation 'dnsjava:dnsjava:2.1.8' // Ensure the correct version of dnsjava
 }

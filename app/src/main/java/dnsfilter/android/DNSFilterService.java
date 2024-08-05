@@ -123,13 +123,13 @@ public class DNSFilterService extends VpnService  {
 
 	public static InetAddress resolveMDNS(String domain) {
 		if (INSTANCE != null && INSTANCE.mdnsResolver != null) {
-            InetAddress address = INSTANCE.mdnsResolver.resolve(domain);
-            if (address != null) {
-                Log.d("DNSResolverDebug", "mDNS resolved " + domain + " to " + address.getHostAddress());
-                return address;
-            }
-            Log.d("DNSResolverDebug", "mDNS failed to resolve " + domain);
-        } else {
+			InetAddress address = INSTANCE.mdnsResolver.resolve(domain);
+			if (address != null) {
+				Log.d("DNSResolverDebug", "mDNS resolved " + domain + " to " + address.getHostAddress());
+				return address;
+			}
+			Log.d("DNSResolverDebug", "mDNS failed to resolve " + domain);
+		} else {
 			Log.d("DNSResolverDebug", "mDNS resolver not available");
 		}
 
@@ -356,7 +356,7 @@ public class DNSFilterService extends VpnService  {
 				while (!stopped) {
 					byte[] data = new byte[DNSServer.getBufSize()];
 					int length = in.read(data);
-				
+
 					if (stopped)
 						break;
 
